@@ -1,2 +1,6 @@
-
+.holder{
+	display: grid;
+	grid-templet-layout: repeat(2,auto);
+	width: 200px;
+}
 /* Your CSS Code here. */
