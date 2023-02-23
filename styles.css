@@ -2,8 +2,8 @@
 	background-color: blue;
 	padding: 40px;
 	display: grid;
-	grid-template-columns: repeat(2,200px);
-	grid-template-rows: 200px 200px;
+	grid-template-columns: repeat(2,100px);
+	grid-template-rows: 100px 100px;
 }
 .item{
 	border: 2px solid red;
