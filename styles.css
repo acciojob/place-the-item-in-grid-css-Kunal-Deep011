@@ -1,6 +1,13 @@
 .holder{
+	background-color: blue;
+	padding: 40px;
 	display: grid;
-	grid-templet-columns: repeat(2,auto);
-	grid-templet-rows: 200px 200px;
+	grid-template-columns: repeat(2,200px);
+	grid-template-rows: 200px 200px;
+}
+.item{
+	border: 2px solid red;
+	background-color: tomato;
+	margin: 2px;
 }
 /* Your CSS Code here. */
